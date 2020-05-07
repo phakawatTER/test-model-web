@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+@keyframes animate-loading {
+  from {letter-spacing: 0;}
+  to {letter-spacing: 10px;}
+}
+
+.animate-loading {
+  animation: animate-loading 1s alternate infinite;
+}
