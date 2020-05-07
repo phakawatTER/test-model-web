@@ -84,13 +84,7 @@ function App() {
             </h1>
           </b>
         </div>
-        <div style={{ textAlign: "center", }}>
-          <b>
-            <h1 id={"video-header"}>
-              Waiting for stream
-            </h1>
-          </b>
-        </div>
+       
         <div style={{ display: "flex", width: "100%", flexDirection: "row" }}>
 
           <div style={{ display: "flexbox", flex: 1, backgroundColor: "black", height: 426, minHeight: 426, position: "relative" }}>
