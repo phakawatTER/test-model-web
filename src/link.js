@@ -1,0 +1,1 @@
+export const LIVESTREAM_SOCKET_ENDPOINT = "http://172.17.1.56:4000"
